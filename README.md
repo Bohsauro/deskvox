@@ -1,4 +1,4 @@
-# open-assistant
+# deskvox
 
 A voice assistant for the desktop. Press a hotkey, speak, and a local or online LLM answers and acts (news, web search, open apps).
 
